@@ -12,8 +12,8 @@ dependencies:
     specifier: ^1.4.668
     version: 1.4.668
   node-releases:
-    specifier: ^2.0.14
-    version: 2.0.14
+    specifier: ^2.0.27
+    version: 2.0.27
   update-browserslist-db:
     specifier: ^1.0.13
     version: 1.0.13(browserslist@4.22.3)
@@ -696,7 +696,7 @@ packages:
     dependencies:
       caniuse-lite: 1.0.30001587
       electron-to-chromium: 1.4.668
-      node-releases: 2.0.14
+      node-releases: 2.0.27
       update-browserslist-db: 1.0.13(browserslist@4.22.3)
     dev: false
 
@@ -1943,8 +1943,8 @@ packages:
     resolution: {integrity: sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==}
     dev: true
 
-  /node-releases@2.0.14:
-    resolution: {integrity: sha512-y10wOWt8yZpqXmOgRo77WaHEmhYQYGNA6y421PKsKYWEK8aW+cqAphborZDhqfyKrbZEN92CN1X2KbafY2s7Yw==}
+  /node-releases@2.0.27:
+    resolution: {integrity: sha512-nmh3lCkYZ3grZvqcCH+fjmQ7X+H0OeZgP40OierEaAptX4XofMh5kwNbWh7lBduUzCcV/8kZ+NDLCwm2iorIlA==}
     dev: false
 
   /normalize-path@3.0.0:
