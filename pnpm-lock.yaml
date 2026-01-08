@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   caniuse-lite:
-    specifier: ^1.0.30001587
-    version: 1.0.30001587
+    specifier: ^1.0.30001763
+    version: 1.0.30001763
   electron-to-chromium:
     specifier: ^1.4.668
     version: 1.4.668
@@ -694,7 +694,7 @@ packages:
     engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
     hasBin: true
     dependencies:
-      caniuse-lite: 1.0.30001587
+      caniuse-lite: 1.0.30001763
       electron-to-chromium: 1.4.668
       node-releases: 2.0.14
       update-browserslist-db: 1.0.13(browserslist@4.22.3)
@@ -750,8 +750,8 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /caniuse-lite@1.0.30001587:
-    resolution: {integrity: sha512-HMFNotUmLXn71BQxg8cijvqxnIAofforZOwGsxyXJ0qugTdspUF4sPSJ2vhgprHCB996tIDzEq1ubumPDV8ULA==}
+  /caniuse-lite@1.0.30001763:
+    resolution: {integrity: sha512-mh/dGtq56uN98LlNX9qdbKnzINhX0QzhiWBFEkFfsFO4QyCvL8YegrJAazCwXIeqkIob8BlZPGM3xdnY+sgmvQ==}
     dev: false
 
   /chalk@4.1.2:
